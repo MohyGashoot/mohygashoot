@@ -520,6 +520,17 @@ li a:hover {
 
 }
 
+#sp8 {
+    display: block;
+    text-align: center;
+    font-size: 1rem; /* Much smaller than sp1 */
+    font-weight: var(--font-semi-bold);
+    background: linear-gradient(to right, #F7086C 0%, #35c9fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
 #about {
     text-align: center;
 }
